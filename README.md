@@ -1,5 +1,11 @@
 # pandas-challenge
 Homework Repo Week 5
+
+# OBSERVABLE TRENDS
+1. The most prevelent demographic for players is males between the ages of 20 and 24
+2. Players spending the most per person in thier age group are between 35 and 39
+3. The most profitable titles all had price points over $4.00
+
 # Pandas Homework - Pandas, Pandas, Pandas
 
 ## Background
